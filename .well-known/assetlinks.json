@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.brightoppong47_code.twa",
+      "sha256_cert_fingerprints": [
+        "98:2B:C6:F5:8E:FC:34:92:F6:3A:29:63:56:38:E8:1E:F0:B0:EA:12:D5:14:47:D4:E1:44:CF:E3:E3:90:12:61"
+      ]
+    }
+  }
+]
